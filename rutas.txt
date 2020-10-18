@@ -1,0 +1,32 @@
+clientes
+1, empresa, La Urbina- Calle 11
+2, Pedro Pérez, Los Caobos-Calle A
+3, Luisa Betancourt, La Candelaria
+4, Antonio Sánchez, La Urbina
+5, Hector Berbe, Santa Mónica
+6, Norberto Rivas, El cafetal
+7, Marbelis Carvajal, Montaban
+8, Andrés Marval, Cumbres de Curumo
+9, Alba Añez, La Boyera
+10, Luís Salazar, San Bernardino
+11, Rafael Pérez, Urb. EL Marqués
+12, Lázaro, Urb. Los Dos Caminos
+caminos
+1,6,4
+1,3,11
+1,7,13
+2,7,5
+3,2,3
+4,7,10
+4,1,1
+5,6,3
+6,2,7
+6,4,8
+7,5,7
+7,12,6
+4,9,8
+12,10,7
+9,8,4
+9,10,12
+8,11,10
+10,11,2
